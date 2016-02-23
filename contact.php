@@ -10,12 +10,15 @@
    <title>Contact</title>
 </head>
 <body>
+<!-- logo-->
+<div id="logo"><a href="http://localhost/"><img src="img/logo.png"></a></div>
+<!-- end logo-->
 
 <div id='cssmenu'>
 <ul>
    <li class=''><a href='http://localhost/'><span>Home</span></a></li>
-   <li><a href='#'><span>Products</span></a></li>
-   <li><a href='#'><span>Company</span></a></li>
+   <li><a href='#'><span>Service</span></a></li>
+   <li><a href='#'><span>About</span></a></li>
    <li class='active'><a href='contact.php'><span>Contact</span></a></li>
 </ul>
 </div>
